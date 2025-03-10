@@ -7,7 +7,7 @@ import AdvertiseBox from '@/components/AdvertiseBox.vue'
     <div class="mb-3 text-4xl font-bold">
       <span class="text-green-600">PrimeVue </span>
       <span class="text-blue-400"> & TypeScript</span>
-      <span class="text-blue-600"> & Vite</span>
+      <span class="text-blue-600"> & Vite (dev)</span>
     </div>
     <h2 class="pb-6 text-2xl">
       Starter for Vue.js Development.
